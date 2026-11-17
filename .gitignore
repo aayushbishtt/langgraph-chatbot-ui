@@ -5,3 +5,5 @@ __pycache__/
 myvenv/
 venv/
 .venv/
+*.mov
+*.mp4
