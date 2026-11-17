@@ -5,7 +5,7 @@ A chatbot built with **LangGraph** and **Google Gemini**, with a **Streamlit** c
 ## Demo
 
 <!-- Replace the line below with the video link GitHub gives you (see "Adding the demo video") -->
-VIDEO_LINK_HERE
+![Demo](demo.gif)
 
 ## Features
 
